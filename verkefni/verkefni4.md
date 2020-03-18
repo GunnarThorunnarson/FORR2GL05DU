@@ -1,0 +1,25 @@
+## Verkefni 4 (10%)
+
+### Verkefnalýsing
+Búðu til byrjun á einföldum 2D leik í Unity. <br>
+Fylgdu eftirfarandi [How to make a 2D Game](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ) þér til stuðnings. 
+
+1. Í leiknum þarf að vera “player” sem getur gengið, hlaupið, hoppað og skriðið (sjá myndböndi 1 til 3 í tutorial).
+1. Í bakgrunni á að vera “sprite” myndir með mismunandi “layers”. 
+1. “Playerinn” á að geta gengið um í umhverfi sem er gert úr “tilemaps”. 
+1. Látið “playerinn” pikka upp pening.
+1. Notið “Sunnyland” pakkann eða sambærilegt.
+1. Playerinn” má vera sá sami og í myndböndunum en umhverfið þarf að vera þitt eigið.
+
+### Búðu til síðu í wiki sem inniheldur eftirfarandi:
+
+1. Mynband af spilun leiks (e. walkthrough) sjá  https://screencast-o-matic.com/
+1. Tengil á spilanlegan leik í vafra (WebGL). 
+1. Tengil á möppu með skriftum.
+1. Stutt lýsing á leik og viðbótum frá þér.
+
+
+### Skil
+Skilaðu á Innu Github vefslóð.
+
+Gangi þér vel!
